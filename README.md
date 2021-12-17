@@ -3,7 +3,7 @@
 Im currently learning python and i love playing/editing codes even if i fail.
 
 ## **Information:**
-- 🔭 I’m currently working on Boards Exam
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ..
 - 🤔 I’m looking for help with ...
