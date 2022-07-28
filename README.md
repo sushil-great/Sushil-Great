@@ -5,25 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushil-great" alt="sushil-great" /></a> </p>
 
-- 🔭 I’m currently working on **soon**
-
+- 🔭 I’m currently working on **tgbots**
 - 🌱 I’m currently learning **Python.**
-
-- 👯 I’m looking to collaborate on **soon**
-
-- 🤝 I’m looking for help with **soon**
-
+- 👯 I’m looking to collaborate on **nothing (im nub)**
+- 🤝 I’m looking for help with **tgbots**
 - 👨‍💻 All of my projects are available at [www.github.com/Sushil-Great](www.github.com/Sushil-Great)
-
-- 📝Info For Future [www.google.com](www.google.com)
-
+- 📝Info For Future [dont hab](www.google.com)
 - 💬 Ask me about **👀**
-
-- 📫 How to reach me **sushilgreat@protonmail.com**
-
+- 📫 How to reach me **👀**
 - 📄 Know about my experiences [www.github.com/Sushil-Great](www.github.com/Sushil-Great)
-
-- ⚡ Fun fact **Im a Weeb**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushil-great&show_icons=true&locale=en" alt="sushil-great" /></p>
