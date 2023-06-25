@@ -2,18 +2,12 @@
 <h3 align="center">A Weeb Messing with Codes.</h3>
 
 
-- 🔭 I’m currently working on **tgbots**
-- 🌱 I’m currently learning **Python.**
-- 🤝 I’m looking for help with **tgbots**
-
-
 
 ## My Stats
 ![Sushil-Great's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushil-great&show_icons=true&theme=radical)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sushil-Great&theme=radical)](https://git.io/streak-stats)
-
 
 
 
